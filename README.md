@@ -1,0 +1,2 @@
+# head-md-softrobotics
+Soft Robotics is a semester project at the [Master Media Design](https://www.hesge.ch/head/en/programs-research/master-arts-media-design) of [Head-Geneva](https://www.hesge.ch/head/), in collaboration with [CEA](https://www.cea.fr/), [CNRS](https://www.cnrs.fr/en/pepr/robotics-for-society-o2r), [INRIA](https://www.inria.fr/en).
