@@ -141,3 +141,6 @@ Interaction, input/output
 
 ### Exercise 3
 a short para, what the soft robot does, where it resides in the home and who it interact with. feed text to an AI and begin an iterative process to refine your concept -> quick prototypes, key points get<br>
+AIs can be used: huggingChat, chatGPT, v0, Gemini, etc.<br>
+
+>robot prompt
