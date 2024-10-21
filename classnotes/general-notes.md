@@ -140,7 +140,8 @@ Interaction, input/output
 - gesture
 
 ### Exercise 3
-a short para, what the soft robot does, where it resides in the home and who it interact with. feed text to an AI and begin an iterative process to refine your concept -> quick prototypes, key points get<br>
+Using your ideas from exercises 1 and 2, write a short paragraph in markdown that describes what your soft robot does, where it resides in the home, and who it interacts with. Feed this text to an AI and begin an iterative process to refine your concept.
+Following this, create a series of quick prototypes that summarize the key points from your concept and your conversations with the AI.<br>
 AIs can be used: huggingChat, chatGPT, v0, Gemini, etc.<br>
 
->robot prompt
+>conversatino with ChatG
