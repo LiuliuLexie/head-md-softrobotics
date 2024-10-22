@@ -1,38 +1,33 @@
-## 2024-10-21~25 - prototypes and scenarios 
-The Chronicles of Misused Robotics in 2050. 
+## 2024-10-22~25 - prototypes and storyboards/scenarios 
+STORYBOARD/SCENARIO: the experience people lived through the whole interaction, be more detailed and include all the stages; can do paper prototype and record the interaction; think of your robot as a story <br>
 
-### 1. The Jellyfish Robot
-“I have a little jellyfish robot designed in 2026 to monitor air quality and regulate humidity. Instead, I’ve attached it to my ceiling fan to create a whimsical light show. It pulsates colors that mimic the ocean’s depths while I enjoy my morning coffee. My guests think I’m a creative genius, but really, I just wanted to distract them from the peeling paint on my walls.”
+IN SUMMARY FROM YOUR SCENARIO WE MUST UNDERSTAND THE FOLLOWING
+- WHERE - Where does exist?
+- WHO- For who is it?
+- WHAT - What is it? What does it do?
+- HOW - How does it behave? How do people get the information they need?How do they interact with it? How does it communicate?
+- WHY - Why does it exist?
 
-**Interaction**: The jellyfish gently sways, emitting soothing colors. Sometimes, it unexpectedly releases a puff of mist, catching guests off guard.
+***
 
-### 2. The Blanket as a Security System**
-“I found a soft robotic blanket originally designed to provide temperature control. Now, it’s a makeshift security system for my front door. When someone approaches, it vibrates wildly, alerting me to potential intruders—or maybe just my neighbor’s cat.”
+**my stuck point: this behaviors are originally very random, but now i need to design from this non-design thing<br>**
 
-**Interaction**: The blanket flops around comically, making it look like it’s waving frantically, providing a bizarre but effective alarm system. 
+definition and identity: the space and the people inside exist, then it exist or has its use, if the space and human interaction disappears, then its useless
 
-### 3. The Dress-Up Companion**
-“I inherited a soft robotic companion designed to help dress children. It now hangs in my closet, holding my hats. Every time I reach for a cap, it springs to life, giving a little twirl. It’s like my personal hat mannequin, but I sometimes wonder if it’s plotting to wear my favorite hat next.”
+### 1. a whatever use thing
 
-**Interaction**: When touched, the robot performs a little dance, adding an element of surprise to the mundane act of grabbing a hat.
+- where: any place in room
+- who: any creature in the room
+- what: something interesting/attractive but useless thing, or to say, people cant define its identity on the first glace and need to explore how it works
+- how: people can easily catch it, grab it, throw it whereever in the room, it will adpat to whatever things, cover them and form a new platform;  ...free to explore
+- why: give an insight on the misbehavior or misused things in our room
 
-### 4. The Luggage Case as a Time Capsule**
-“I own a smart luggage case from 2029, designed to keep track of travel itineraries. It’s now my kitchen cabinet for odd kitchen gadgets. Occasionally, it starts spouting off travel tips and recipes, giving my friends the impression that I’m well-traveled and cultured.”
+### 2. lamp
 
-**Interaction**: It randomly opens up to reveal a hidden compartment, showcasing old travel souvenirs, as it tries to narrate stories of distant lands.
+- where: any place in room
+- who: any creature in the room
+- what: originally a lamp shape but cant light (cant be used as a lamp), looks simple
+- how: when people put anything on it, it would grow and generate the upper part of it into shapes that hold handy things, or become a box
+- why: 
 
-
-
-functional? x 
-misbehaving
-personality 
-dangerous
-unfilter
-funk
-human truth go deeep 
-why > go deep into the reasons
-start from observation, give more human-truth
-transformation
-hack
-personal growth
 

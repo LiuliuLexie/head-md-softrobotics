@@ -58,7 +58,7 @@ go to zoo or 水族馆 and think about what is their intelligence. inner things,
 from the **Solitude**, human beings increasingly need the accompany of pets, and what about pets? pets have Separation Anxiety, and there’s a Pet Attachment Theory, Biophilia Hypothesis (亲生命假说)<br>
 a soft robotics that soft and furry, the entire body is made up of several strips, it **Glides** and move like **Waves**, less active more passive, stay and wrap in home and transfer any furniture into a “cat climbing frame” thing, would **Purr** when fill pressed (the **Tension** sensor), the interaction could be in purposed or not. 
 
-![prototype1.png](pic/prototype1.png)
+![2024-10-15-prototype1.png](pic/2024-10-15-prototype1.png)
 
 ### Prototype brainstorming2
 
@@ -66,15 +66,15 @@ undulate 波动 elastic 松紧带 squat 蹲，矮胖 intracellular<br>
 art therapy, a support (size flexible, a pillow or a cup size or bed) to your body and mental health, is senses the **Breath, Undulate,**<br>
 title: **holding your breath** <br>
 
-![16851729250207_.pic.jpg](pic/16851729250207_.pic.jpg)
+![2024-10-15-prototype2-1.jpg](pic/2024-10-15-prototype2-1.jpg)
 
-![16861729250208_.pic.jpg](pic/16861729250208_.pic.jpg)
+![2024-10-15-prototype2-2.jpg](pic/2024-10-15-prototype2-2.jpg)
 
-domestic spaces: 
+### Domestic spaces: 
 
 functional areas, spacial areas; <br>
 related to human life and culture, home, social relation, identities, not just physical but dynamic space;<br>
-embody a duality, represent both intimate family arrangements and sites for inequality [为什么我的男友和闺蜜不能同时看裸体 - 概念 补]<br>
+embody a duality, represent both intimate family arrangements and sites for inequality [为什么我的男友和闺蜜不能同时看裸体 - 社会学的解读：场景崩塌+角色冲突，不同的人扮演的角色不同，而裸体在任意一种关系中都有其排他性和亲密性，两个场景彼此独立保持便捷，打破了就会带来角色认知冲突]<br>
 [on slides more keywords, circulation, tracks-narrations]<br>
 
 find your zone of intervention
@@ -138,6 +138,7 @@ Interaction, input/output
 - time length of the owner staying in room or putting something on it
 - message
 - gesture
+- adapt, when thrown onto some messy things or corner, 
 
 ### Exercise 3
 Using your ideas from exercises 1 and 2, write a short paragraph in markdown that describes what your soft robot does, where it resides in the home, and who it interacts with. Feed this text to an AI and begin an iterative process to refine your concept.
@@ -146,8 +147,7 @@ AIs can be used: huggingChat, chatGPT, v0, Gemini, etc.<br>
 
 >conversation with ChatG > ChatG.md
 
-Comments from profs:
-
+**Comments from profs (tutorial notes):**<br>
 goes too fast, we dont need to see what the project looks like now<br>
 go less general but put the interesting keywords <br>
 "misusing" wrong uses <br>
@@ -162,6 +162,17 @@ try doing a disign fiction: collecting "i have a little jellyfish robot designed
 not used， wired 荒诞的<br>
 go into a future background conversation<br>
 
+**Do a little research here for some ideas:**<br>
+[Robots Failing Compilation](https://youtu.be/xl0i56oYGLE?si=Bgk-Xs5wg0kBDqmK)<br>
+hackers gaining control over household cleaning robots, using them to shout racist slurs [report link](https://www.forbes.com/sites/larsdaniel/2024/10/16/racist-spy-robots--hackers-hijacked-vacuums-to-yell-racial-insults/)<br>
+[Robot gets hilariously abused](https://youtu.be/0VgxAnZKM14?si=mJIhrU1QpjsDyavn)<br>
+[PUTPUT](https://www.instagram.com/putput.dk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)<br>
+WITHOUT THOUGHTS, design philosophy by [Naoto Fukasawa](https://naotofukasawa.com/),  [interview](https://designsojourn.com/naoto-fukasawa-without-a-thought/)
+![quote_NaotoFukasawa.jpg](pic/quote_NaotoFukasawa.jpg)
+
+Bio:
+parasitism -> companion organisms
+
 ## 2024-10-22
 
 focus on interaction<br>
@@ -171,9 +182,50 @@ research, exploration<br>
 STORYBOARD/SCENARIO: the experience people lived through the whole interaction, be more detailed and include all the stages; can do paper prototype and record the interaction; think of your robot as a story <br>
 IN SUMMARY FROM YOUR SCENARIO WE MUST UNDERSTAND THE FOLLOWING
 - WHERE - Where does exist?
-- WHO-Forwhoisit?
+- WHO- For who is it?
 - WHAT - What is it? What does it do?
-- HOW - How does it behave? How do people get the information they need? - How do they interact with it? How does it communicate?
+- HOW - How does it behave? How do people get the information they need?How do they interact with it? How does it communicate?
 - WHY - Why does it exist?
 
+**More comments from profs(tutorial notes):**<br>
+functional? x <br>
+misbehaving<br>
+personality <br>
+dangerous<br>
+unfilter<br>
+funk<br>
+human truth go deeep <br>
+why > go deep into the reasons<br>
+start from observation, give more human-truth<br>
+transformation<br>
+hack<br>
+personal growth<br>
+
+**Comments from Ban:**<br>
+树叶 -> 书签<br>
+define a things into another function<br>
+主被动关系 -> i dont originally need, but turned into<br>
+设计一个interesting/attractive but useless thing -> user去发挥 <br>
+can be easily defined but don't know how to use<br>
+leave the imagination space to the user<br>
+detailed bakground, reasons <br>
+interaction: throw -> be box<br>
+my stuck point: this behaviors are originally very random, but now i need to design from this non-design thing<br>
+
 >start prototypes and scenarios > prototypes-scenarios.md
+
+**More comments from profs (tutorial notes):**<br>
+extendable<br>
+experiments - people find definition<br>
+open up space, creating a space that is not there<br>
+zip<br>
+suggest something<br>
+
+not a lamp but look like a lamp<br>
+a string<br>
+elements on them <br>
+
+Reference recommended: design noir<br>
+![refer_designnoir1.png](pic/refer_designnoir1.png)
+![refer_designnoir2.png](pic/refer_designnoir2.png)
+![refer_designnoir3.png](pic/refer_designnoir3.png)
