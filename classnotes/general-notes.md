@@ -144,4 +144,20 @@ Using your ideas from exercises 1 and 2, write a short paragraph in markdown tha
 Following this, create a series of quick prototypes that summarize the key points from your concept and your conversations with the AI.<br>
 AIs can be used: huggingChat, chatGPT, v0, Gemini, etc.<br>
 
->conversatino with ChatG
+>conversation with ChatG
+
+Comments from profs:
+
+goes too fast, we dont need to see what the project looks like now<br>
+go less general but put the interesting keywords <br>
+"misusing" wrong uses <br>
+misused robots?/gestures, the robot itself is misused <br>
+a wrong intention in the first time <br>
+hacking, hijack, a creative use if not the official use, personalized use
+references <br>
+people doing stupid things<br>
+more the gesture, interaction, ...<br>
+repurposing<br>
+try doing a disign fiction: collecting "i have a little jellyfish robot designed in 2026, ... " sci-fi way <br>
+not used， wired 荒诞的<br>
+go into a future background conversation<br>
