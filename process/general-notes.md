@@ -215,17 +215,19 @@ my stuck point: this behaviors are originally very random, but now i need to des
 >start prototypes and scenarios > prototypes-scenarios.md
 
 **More comments from profs (tutorial notes):**<br>
-extendable<br>
-experiments - people find definition<br>
-open up space, creating a space that is not there<br>
+still need intention<br>
+maybe can experience around circles<br>
+open but give it some clues, maybe its extendable<br>
+experiments - people find definition, see what they do<br>
+a bag - open up space, creating a space that is not there<br>
 zip<br>
-suggest something<br>
-
-not a lamp but look like a lamp<br>
-a string<br>
-elements on them <br>
+give it something, to adopt<br>
+not a lamp but look like a lamp, start with the lamp shape, sth clearly not a lamp but in lamp shape<br>
+how people use a simple string<br>
+deconstract elements on them <br>
 
 Reference recommended: design noir<br>
+create the incomplete design that they suggest something, a shape, or wave, and give people -> give them a card and see how they define 
 ![refer_designnoir1.png](pic/refer_designnoir1.png)
 ![refer_designnoir2.png](pic/refer_designnoir2.png)
 ![refer_designnoir3.png](pic/refer_designnoir3.png)
