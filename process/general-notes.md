@@ -231,3 +231,15 @@ create the incomplete design that they suggest something, a shape, or wave, and 
 ![refer_designnoir1.png](pic/refer_designnoir1.png)
 ![refer_designnoir2.png](pic/refer_designnoir2.png)
 ![refer_designnoir3.png](pic/refer_designnoir3.png)
+
+## 2024-11-06
+presentation of prototypes and scenarios -> Miro 
+>very first prototypes and scenarios > prototypes-scenarios.md
+
+![1106pre.png](pic/1106pre.png)
+
+**Comments from profs(after presentation)**
+
+Prepare tmr's presenation
+- templete to follow
+>2024-11-07-presentation.md
