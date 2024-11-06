@@ -9,7 +9,6 @@ The misbehaviored/misused objects in domestic spaces
 ![visual.png](pic/1107-2.png)
 
 ## Research Question
-How do objects gain new functionalities through human mis-interpretation?
 How can we get inspiration from human misused objects?
 How can objects create new functions through human interpretation?
 
