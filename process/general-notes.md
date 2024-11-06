@@ -238,7 +238,11 @@ presentation of prototypes and scenarios -> Miro
 
 ![1106pre.png](pic/1106pre.png)
 
-**Comments from profs(after presentation)**
+**Comments from profs(after presentation)**<br>
+recommened refer from Chakir: [More unremarkable and odd places in Mario 64](https://www.youtube.com/watch?v=SybPxb_DjZ4&t=519s)<br>
+3rd proto most promising <br>
+
+try to generate "new" objects and experiment with people [ai generator web](https://futuremirror.vercel.app/)<br>
 
 Prepare tmr's presenation
 - templete to follow
