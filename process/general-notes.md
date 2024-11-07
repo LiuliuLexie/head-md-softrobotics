@@ -244,6 +244,43 @@ recommened refer from Chakir: [More unremarkable and odd places in Mario 64](htt
 
 try to generate "new" objects and experiment with people [ai generator web](https://futuremirror.vercel.app/)<br>
 
-Prepare tmr's presenation
-- templete to follow
+Prepare tmr's presenation: templete to follow
 >2024-11-07-presentation.md
+
+## 2024-11-07
+**Comments from profs and researchers after the presentation**<br>
+https://en.wikipedia.org/wiki/The_Death_of_the_Author
+Maybe a next-step after deconstructing the designer = author, would be to look at Michel De Certeau’s The Practice of Everyday Life: https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life
+https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf
+
+personalized exercises: kill one and invite more, think about cues nudging people
+invitation, create strange objects<br>
+
+cues nudging people
+invitation
+create strange objects
+
+more physical things next week<br>
+think about the softness <br>
+
+### Exercise
+> A LIST of common objects in domestic spaces ChatG gives me:<br>
+> Bed, couch, chairs, tables, shelves, dressers, wardrobes, bookshelves, nightstand, TV stand, lamps, ceiling light, night light, string lights, pictures, paintings, mirrors, rugs, curtains, blinds, plants, clocks, vases, television, speakers, computer, laptop, phone, tablet, game console, remote controls, chargers, books, magazines, jewelry box, clothing, bags, keys, wallet, sunglasses, shoes, baskets, boxes, drawers, containers, clothes hamper, trash bin, tissue box, pens, notepads, towels.
+
+[get random word code](https://openprocessing.org/sketch/2435179)
+
+Some results I get:
+- books, wallet
+- light, wardrobes
+- boxes, mirrors
+- wallet, light
+- curtains, console
+- table, console
+- controls, couch, stand
+- plants, tissue, speakers
+
+**mid check with Alexia**
+
+todo:
+整理录音和笔记
+experiments
