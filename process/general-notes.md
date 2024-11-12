@@ -240,8 +240,10 @@ presentation of prototypes and scenarios -> Miro
 
 **Comments from profs(after presentation)**<br>
 recommened refer from Chakir: [More unremarkable and odd places in Mario 64](https://www.youtube.com/watch?v=SybPxb_DjZ4&t=519s)<br>
-3rd proto most promising <br>
-
+3rd proto most promising, nudging, prompt from user, different types of prompting and nudging, a lot of possibilities, play with the ideas <br>
+fill the gap, collabrating with other objects and create new one; but Suglue already<br>
+4th idea: randomness still working with the overlooked corners, viberation, interactive, input some significance into it, not obvious, the tapping is interesting, like a reset<br>
+feel like different transformations from one dough<br>
 try to generate "new" objects and experiment with people [ai generator web](https://futuremirror.vercel.app/)<br>
 
 Prepare tmr's presenation: templete to follow
@@ -249,21 +251,19 @@ Prepare tmr's presenation: templete to follow
 
 ## 2024-11-07
 **Comments from profs and researchers after the presentation**<br>
-https://en.wikipedia.org/wiki/The_Death_of_the_Author
+a story in narrative interpretation<br>
+[the Death of the Author](https://en.wikipedia.org/wiki/The_Death_of_the_Author) >> the Death of the Designer<br>
+kill the designer or try to have more control on the people by misleading them? kill the designer but inviting more designers<br>
+infinite design because of unfinished design, unfinished objects to people and they need to finish the objects, a lot of experiments<br>
 Maybe a next-step after deconstructing the designer = author, would be to look at Michel De Certeau’s The Practice of Everyday Life: https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life
-https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf
-
-personalized exercises: kill one and invite more, think about cues nudging people
+https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf<br>
+personalized exercises: kill one and invite more, think about cues nudging people<br>
 invitation, create strange objects<br>
-
-cues nudging people
-invitation
-create strange objects
-
+cues nudging people, invitation, create strange objects<br>
 more physical things next week<br>
 think about the softness <br>
 
-### Exercise
+### Personalized Exercise
 > A LIST of common objects in domestic spaces ChatG gives me:<br>
 > Bed, couch, chairs, tables, shelves, dressers, wardrobes, bookshelves, nightstand, TV stand, lamps, ceiling light, night light, string lights, pictures, paintings, mirrors, rugs, curtains, blinds, plants, clocks, vases, television, speakers, computer, laptop, phone, tablet, game console, remote controls, chargers, books, magazines, jewelry box, clothing, bags, keys, wallet, sunglasses, shoes, baskets, boxes, drawers, containers, clothes hamper, trash bin, tissue box, pens, notepads, towels.
 
@@ -279,8 +279,31 @@ Some results I get:
 - controls, couch, stand
 - plants, tissue, speakers
 
-**mid check with Alexia**
+![aigenerator1.png](pic/aigenerator1.png)
+![aigenerator2.png](pic/aigenerator2.png)
+problem: the ai generator is not creative at all and very much creating something based on the original pic, the shape and structure,, more on real combined objects 
+![aigenerator3.png](pic/aigenerator3.png)
 
-todo:
-整理录音和笔记
-experiments
+**mid check with Alexia**
+tryo own combinition of physical things inside of collage pictures<br>
+give some context, like a usage, not object-driven but usage-driven <br>
+prototypes and 3D objects, more active, "invite"<br>
+unfinish - finish<br>
+
+Experiment with one action keyword and one line
+![experiment.jpg](pic/experiment.jpg)
+
+## 2024-11-11
+Transform your concept into possible shapes, product/3D design
+
+## 2024-11-12
+intro to product design
+
+**comments from LK and DES**
+let others finishing it
+object typologies 100 chairs in 100 days
+unintentional designs
+what makes people sit on it?
+vessel iterations -
+more generic typologies
+with simplier shapes
