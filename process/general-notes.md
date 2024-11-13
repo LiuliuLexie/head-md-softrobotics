@@ -292,6 +292,7 @@ unfinish - finish<br>
 
 Experiment with one action keyword and one line
 ![experiment.jpg](pic/experiment.jpg)
+but i dont know what to do with them
 
 ## 2024-11-11
 Transform your concept into possible shapes, product/3D design
@@ -301,9 +302,37 @@ intro to product design
 
 **comments from LK and DES**
 let others finishing it
-object typologies 100 chairs in 100 days
+object typologies [100 chairs in 100 days](https://www.martinogamper.com/project/a-100-chairs-in-a-100-days/)<br>
 unintentional designs
 what makes people sit on it?
 vessel iterations -
 more generic typologies
 with simplier shapes
+[Jasper Morrison](https://jaspermorrison.com/publications/essays/the-unimportance-of-form)
+
+## 2024-11-13
+3D -> 2D: revolve and flatten(unroll) surfaces and add the cutlines , prepare for paper cutting
+
+4 different geometries with the same height(h=120mm): 
+- box 
+- cone (r=50mm)
+- cylinder, 
+- sheet(A4)
+
+Experiment with a paper sheet
+![experimentpaper.png](pic/experimentpaper.png)
+
+Categorized based on what shape the paper is in, bended or not:
+![category1.png](pic/category1.png)
+
+Categorized based on which part the paper is maily used:
+![category2.png](pic/category2.png)
+
+**mid check with LK**
+category
+evolotion
+shapes
+cones that differently centered
+
+Different cones in same height and radius but different center
+![cones.png](pic/cones.png)
