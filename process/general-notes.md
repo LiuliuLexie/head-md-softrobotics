@@ -333,6 +333,10 @@ category
 evolotion
 shapes
 cones that differently centered
+no purpose - the hard point but need to let users find out
 
 Different cones in same height and radius but different center
 ![cones.png](pic/cones.png)
+
+![experimentwithcones.png](pic/experimentwithcones.png)
+motion, visual effect, force, stability, usage
