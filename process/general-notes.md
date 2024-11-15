@@ -256,7 +256,7 @@ a story in narrative interpretation<br>
 kill the designer or try to have more control on the people by misleading them? kill the designer but inviting more designers<br>
 infinite design because of unfinished design, unfinished objects to people and they need to finish the objects, a lot of experiments<br>
 Maybe a next-step after deconstructing the designer = author, would be to look at Michel De Certeau’s The Practice of Everyday Life: https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life
-https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf<br>
+https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf (Creative Consumption, personalized usage -> secondary production)<br>
 personalized exercises: kill one and invite more, think about cues nudging people<br>
 invitation, create strange objects<br>
 cues nudging people, invitation, create strange objects<br>
