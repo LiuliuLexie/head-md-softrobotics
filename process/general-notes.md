@@ -284,7 +284,7 @@ Some results I get:
 problem: the ai generator is not creative at all and very much creating something based on the original pic, the shape and structure,, more on real combined objects 
 ![aigenerator3.png](pic/aigenerator3.png)
 
-**mid check with Alexia**
+**mid check with Alexia**<br>
 tryo own combinition of physical things inside of collage pictures<br>
 give some context, like a usage, not object-driven but usage-driven <br>
 prototypes and 3D objects, more active, "invite"<br>
@@ -300,7 +300,7 @@ Transform your concept into possible shapes, product/3D design
 ## 2024-11-12
 intro to product design
 
-**comments from LK and DES**
+**comments from LK and DES**<br>
 let others finishing it
 object typologies [100 chairs in 100 days](https://www.martinogamper.com/project/a-100-chairs-in-a-100-days/)<br>
 unintentional designs
@@ -328,7 +328,7 @@ Categorized based on what shape the paper is in, bended or not:
 Categorized based on which part the paper is maily used:
 ![category2.png](pic/category2.png)
 
-**mid check with LK**
+**mid check with LK**<br> --
 category
 evolotion
 shapes
@@ -340,3 +340,109 @@ Different cones in same height and radius but different center
 
 ![experimentwithcones.png](pic/experimentwithcones.png)
 motion, visual effect, force, stability, usage
+
+## 2024-11-18
+electronics
+
+U=IR<br>
+P=UI<br>
+
+## 2024-11-19
+**comments from Pablo**<br> --
+maybe also provide a menu of examples <br>
+matrix - rearrange
+金木水火土 different features but share similarities to show a collection
+wood robot
+
+## 2024-11-20
+**comments from LK** <br> 
+do i want the collection still be used? or soft robot<br>
+chain/spine in the one hand, other combinition idea? or how the virety itself can achive <br>
+
+brainstorming of the forms it can have:
+
+## final shape???????
+### Shape based on cones
+main basic gestures:
+- Upright (bottom facing down, the most stable)
+- Inverted (top facing down, unstable, but interesting motion).
+- Lay sideways (bottom line in contact with the ground, great use playing with combination of edge and surface).
+- Leaning (top against the wall, bottom edge on the ground, use external support to demonstrate how its geometric symmetry produces different contact forms).
+- Hanging (by hanging the top or bottom of the cone, the natural vertical posture guided by gravity).
+- Rolling
+
+possibilities of addition:
+- Tumbler design (adding weights to the bottom so that the eccentric cone will return to the upright position no matter how it is placed).
+- Top-mounted center of gravity (adding weights to the top of the cone to make it more stable when inverted, showing mechanical balance under the guidance of the center of gravity).
+- Side-weight experiment (adding weights to the side to see how the stability changes of the cone at different tilt angles).
+- Dynamic tilt (installing movable weights, such as balls, inside the cone to make it show dynamic balance at different tilt angles).
+- Magnetic balance? (using magnets to absorb the top or bottom of the eccentric cone so that it can rotate or tilt freely in a suspended state).
+- Eccentric link (connecting multiple eccentric cones in series to make them like a chain/spine, and see how the motion can be achieved).
+- Collision experiment (using multiple eccentric cones to roll or collide to observe their paths and movement patterns).
+- Light and shadow experiment (using lights to place cones at different angles to observe the changes in shadows cast by their eccentric shapes).
+
+![shape.png](pic/shape.png)
+
+### Movement and Interaction
+for the single cones:
+- seperate and combine
+- viberation while tapped
+
+for combined ones?:
+- stretch and extention > move (refer: spines, [miurakit](https://interactive-structures.org/publications/2023-07-miura-kit/))
+
+
+**comments from LK and AM**
+cones that wait for others to use<br>
+shape - good, interesting<br>
+make them playful, eg, when cover something (placed upright) , it will viberate to fall down, when placed inverted, it will scream(make sound) etc<br>
+make (possibilities)
+1. one that reacts differently to differnt interactions; 
+2. a collection that reacts in same sense to different interactions; refer [collection objects](https://youtu.be/v68xoidR2FA?si=nC-dEITUZ5j8EbV-)
+3. a collections reacts differently to different interactions; <br>
+Pavlov's Dog, the first experimenting part 
+
+interactions and feedback
+| possible interactions | sensor | feedback | reason |
+|---|------|------|------|
+Invert it
+Cover something | light sensor(?) | viberate/scream | play with the user
+Tap it
+Press it
+Spin/Rotate it
+Tilt it
+Stack it
+Balance objects
+Slide/Move it
+Swing it
+Throw it
+Wrap or decorate it | pressure sensor
+Put objects on/in it (Use it as a container)
+Trace its shadow
+Insert objects into it
+Create sound | sound sensor
+Clash it with others
+Light it | light sensor | runaway/move | run away from light
+
+cheating:: remote control
+
+| possible feedbacks | how to realize |
+|---|------|
+Light emission: light on, blink, light-code | LEDs
+Color change | LEDs or paper machanism with paper in different colors
+Temperature change 
+Texture transformation
+Elastic deformation
+Soft touch response
+sound feedback
+Self-balancing
+Wobbling
+Spinning 
+Weight redistribution
+Scent release
+Mobile app connection
+Data display
+Social connectivity: Emits signals when it "detects" another cone nearby, encouraging collaborative play.
+Random response
+Delayed reaction
+Simulated life: Pulsates or vibrates slowly at rest, mimicking a "breathing" sensation.
