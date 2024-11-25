@@ -449,3 +449,6 @@ Simulated life: Pulsates or vibrates slowly at rest, mimicking a "breathing" sen
 
 Demo 1: a simulator, light changing interact with gestures (cheating: joystick control)
 > electronics/joystickcontrolLED/
+
+Demo 2: a simulator, potentiometer control movement
+> electronics/potentiometercontrolServo/
