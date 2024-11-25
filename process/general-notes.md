@@ -423,8 +423,7 @@ Insert objects into it
 Create sound | sound sensor
 Clash it with others
 Light it | light sensor | runaway/move | run away from light
-
-cheating:: remote control
+||
 
 | possible feedbacks | how to realize |
 |---|------|
@@ -446,3 +445,7 @@ Social connectivity: Emits signals when it "detects" another cone nearby, encour
 Random response
 Delayed reaction
 Simulated life: Pulsates or vibrates slowly at rest, mimicking a "breathing" sensation.
+||
+
+Demo 1: a simulator, light changing interact with gestures (cheating: joystick control)
+> electronics/joystickcontrolLED/
