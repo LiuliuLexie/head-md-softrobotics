@@ -452,3 +452,6 @@ Demo 1: a simulator, light changing interact with gestures (cheating: joystick c
 
 Demo 2: a simulator, potentiometer control movement
 > electronics/potentiometercontrolServo/
+
+Demo 3: touch sensor -> 
+> electronics/MPR121test_withsound/
