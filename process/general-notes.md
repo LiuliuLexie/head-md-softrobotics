@@ -455,3 +455,8 @@ Demo 2: a simulator, potentiometer control movement
 
 Demo 3: touch sensor -> 
 > electronics/MPR121test_withsound/
+
+## 2024-11-29
+State Machine
+- [prossel open source](https://blog.prossel.info/517-state-machine-arduino-demo/)
+- [jrullan git](https://github.com/jrullan/StateMachine)
