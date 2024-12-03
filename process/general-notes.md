@@ -399,7 +399,7 @@ make them playful, eg, when cover something (placed upright) , it will viberate 
 make (possibilities)
 1. one that reacts differently to differnt interactions; 
 2. a collection that reacts in same sense to different interactions; refer [collection objects](https://youtu.be/v68xoidR2FA?si=nC-dEITUZ5j8EbV-)
-3. a collections reacts differently to different interactions; <br>
+3. a collection of cones(robots) that reacts differently to different interactions; <br>
 Pavlov's Dog, the first experimenting part 
 
 interactions and feedback
@@ -460,3 +460,6 @@ Demo 3: touch sensor ->
 State Machine
 - [prossel open source](https://blog.prossel.info/517-state-machine-arduino-demo/)
 - [jrullan git](https://github.com/jrullan/StateMachine)
+
+## 2024-12-04
+> presentations/2024-12-04-presentation.md

@@ -3,51 +3,54 @@
 - Master Media Design + O2R
 
 ## Project title 
-Coneic / ReCone
-//
-
-Think a simple, straightforward title, can also be poetic or playful but keep it short. 
+Coneic
 
 ## Research Question / area of research
 How can objects create new functions through human interpretation?
 
 ## Pitch
-My project are playful cones that wait for others to explore.//
-
-One sentence to describe what is your concept. (~100 chars max)  For example: "My project is a sound tapestry that records and transform human conversations".
-+ Key visual (from your 3D renderings or your paper prototypes)
-+ Optional second visual
+My project is a collection of playful cone-shaped soft robots that inspire people to recreate and evolve through user interaction.
+![prototype](pic/paper_prototype.jpg)
 
 ## Prototyping research
-- observation
-- experiments
-- research and references
-- prototype and interactions
+- observation: the misbehavioring objects in my room
+![observation.png](pic/1107-4.png)
+- research and references: 
+    - design noir
+![refer_designnoir3.png](pic/refer_designnoir3.png)
+    - [Jasper Morrison](https://jaspermorrison.com/publications/essays/the-unimportance-of-form)
+    - Michel De Certeau’s [The Practice of Everyday Life](https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life) [pdf](https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf)(Creative Consumption, personalized usage -> secondary production)
+- experiments on the forms: what makes people use it? motion, visual effect, force, stability, usage
+![category1.png](pic/category1.png)
+![experimentwithcones.png](pic/experimentwithcones.png)
+- then prototype and interactions, decide to make it playful and have the goal that it can always surprise the users, more in the user scenario part
 
 //
 
-Describe in a short paragraph (~500 chars) the research that you have conducted around your prototypes. What were your intentions? What are the several forms you looked into? What were the different interactions you tried? Illustrate each method with corresponding photo, sketches, audio, movies, 3D visuals etc. You can put a lot of elements here, but please curate the most illustrative materials.
+Describe in a short paragraph (~500 chars) the research that you have conducted around your prototypes. What were your intentions? What are the several forms you looked into? What were the different interactions you tried? 
 
 ## Your key prototype
-playful cones that wait for others to explore
-unintentional design and user innovation
-Encouraging Secondary Production
-Sustainability in Creativity
-Creative products are defined by their capacity to inspire and facilitate secondary production. They succeed when they act as tools, frameworks, or prompts, empowering users to explore, create, and iterate. In doing so, they embody a unique fusion of unintentional design and intentional innovation, where the user's input ultimately defines the product's creativity. and stimulate the story and life in the robots
-//
-
-Short paragraph (~250 chars) describing the prototype and your concept, what it does, how does it act, why does it exist etc.
-
-+ One photo of the paper prototype (can be gif animation, or static)
-+ One 3D image 
-+ (Optional) Video
+My project is a collection of playful, cone-shaped soft robots. My prototype is this collection of cones that react uniquely to different interactions, inspiring users to use, recreate, and evolve their functions. They are rooted in unintentional design and user innovation, inviting secondary production, and encouraging users to shape their own stories and bring them to life. 
+![prototype](pic/paper_prototype.jpg)
+![3dimage.png](pic/cones_model.png)
 
 ## User scenario
-video 
+video demos
+> electronics/joystickcontrolLED/IMG_3614.MOV
+> electronics/potentiometercontrolServo/IMG_3672.MOV
+
 //
-+ Your storyboard showing how your prototype can be used 
++ screenshot of the interaction list
++ storyboard
 
 ## Next Steps
 - Adding and designing more interactions
 - Enriching the behind and playful stories
-- Combining and arranging the electronics
+- Combining and arranging the electronics with the prototype
+
+
+todo:
+- [x]  take a pic of the paper prototypes
+- [ ]  regenerate pluge in the touchpad arduino board tomorrow, the several different functions
+- [ ]  text in the research, tmr
+- [ ]  storyboard and list, tmr
