@@ -2,10 +2,9 @@
 - Soft Robots
 - Master Media Design + O2R
 
-## Project title 
-Coneic
+## Project: Coneic
 
-## Research Question / area of research
+## Research Question
 How can objects create new functions through human interpretation?
 
 ## Pitch
