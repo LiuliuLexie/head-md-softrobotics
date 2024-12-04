@@ -461,4 +461,36 @@ State Machine
 - [jrullan git](https://github.com/jrullan/StateMachine)
 
 ## 2024-12-04
-> presentations/2024-12-04-presentation.md
+> presentations/2024-12-04-presentation.md<br>
+
+**comments from**
+Introduce more function or sense / or staying creative and playful? 
+With a Collection of input and output you can tell a lot of different stories
+Fake-it demo 
+Interesting that you don’t know which cone is doing what
+Use scenarios cases
+Species? on the ocean -> kids play with it, sometimes in a harsh way
+Secret silent code 
+Affordance of the object is really interesting 
+A lot of possibilities 
+Do something your partner won’t see the all thing
+Divination machine
+The other one is moving because one was touched? 
+Douglas likes the cut
+experience
+keep each thing simple
+
+**general feedback**
+network<br>
+do more and better with less<br>
+balance of input and output<br>
+interacting with physical materials there<br>
+why soft robots innteresting, the elephant, difficult to control<br>
+experiment the prototype with as much interaction with people as you can, open up possibilities<br>
+learning algorithm/dimension? think about it for the future, adding the learning out of the interactions from people, enrich the proto, soft behavior/programming, more music-like programming, no strict definition, open object, people helping with the definition/identity<br>
+previous step to next step<br>
+
+todo:
+- [ ] decide the detailed electronics and work on them!!!
+- [ ] combing and clean up the electronics
+- [ ] modelling the part to put the eletronics, the supports
