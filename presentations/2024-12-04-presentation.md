@@ -31,7 +31,7 @@ My project is a collection of playful, cone-shaped soft robots. My prototype is 
 ![3dimage.png](pic/cones_model.png)
 
 ## User scenario
-video demos
+video demos:
 > electronics/joystickcontrolLED/demo1.mp4 <br>
 > electronics/potentiometercontrolServo/demo2.mp4 <br>
 > electronics/MPR121test_withsound/demo3.mp4 <br>
