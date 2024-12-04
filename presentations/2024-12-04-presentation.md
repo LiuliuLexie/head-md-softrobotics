@@ -36,6 +36,7 @@ video demos
 > electronics/joystickcontrolLED/IMG_3614.MOV <br>
 > electronics/potentiometercontrolServo/IMG_3672.MOV <br>
 > electronics/MPR121test_withsound/IMG_3676.mov+touchpad.png <br>
+
 ![scenario.png](pic/scenario.png)
 
 ## Next Steps
