@@ -25,7 +25,7 @@ My project is a collection of playful cone-shaped soft robots that inspire peopl
 - then prototype and interactions, decide to make it playful and have the goal that it can always surprise the users, more in the user scenario part
 
 
-## Your key prototype
+## Key Prototype
 My project is a collection of playful, cone-shaped soft robots. My prototype is this collection of cones that react uniquely to different interactions, inspiring users to use, recreate, and evolve their functions. They are rooted in unintentional design and user innovation, inviting secondary production, and encouraging users to shape their own stories and bring them to life. 
 ![prototype](pic/paper_prototype.jpg)
 ![3dimage.png](pic/cones_model.png)
