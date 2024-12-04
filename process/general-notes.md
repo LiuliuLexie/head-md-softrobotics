@@ -405,21 +405,20 @@ Pavlov's Dog, the first experimenting part
 interactions and feedback
 | possible interactions | sensor | feedback | reason |
 |---|------|------|------|
-Invert it
+Invert it|tilt sensor| sound | fall down situation
 Cover something | light sensor(?) | viberate/scream | play with the user
-Tap it
-Press it
-Spin/Rotate it
-Tilt it
-Stack it
+Tap it|touchpad|blinking light|comfort
+Press it|pressure  sensor
+~~Spin/Rotate it~~
+Stack it|IR Infrared Obstacle Avoidance Sensor
 Balance objects
-Slide/Move it
+Slide/Move it|motion sensor
 Swing it
-Throw it
+Throw it|motion sensor
 Wrap or decorate it | pressure sensor
-Put objects on/in it (Use it as a container)
+Put objects on/in it (Use it as a container)|IR Infrared Obstacle Avoidance Sensor
 Trace its shadow
-Insert objects into it
+~~Insert objects into it~~
 Create sound | sound sensor
 Clash it with others
 Light it | light sensor | runaway/move | run away from light
