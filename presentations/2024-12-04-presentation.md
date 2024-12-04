@@ -40,5 +40,5 @@ video demos
 
 ## Next Steps
 - Adding and designing more interactions
-- Enriching the behind and playful stories
+- Enriching the playful stories behind the interactions
 - Combining and arranging the electronics with the prototype
