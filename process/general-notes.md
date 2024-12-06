@@ -490,7 +490,37 @@ experiment the prototype with as much interaction with people as you can, open u
 learning algorithm/dimension? think about it for the future, adding the learning out of the interactions from people, enrich the proto, soft behavior/programming, more music-like programming, no strict definition, open object, people helping with the definition/identity<br>
 previous step to next step<br>
 
+## 2024-12-05
+**comments from LK and Pablo (a saving-my-life conversation)**<br>
+network: numbers of the cones - the more the better, for a system of showing, maybe 3 of each?
+- audio 3
+- light 3
+- motion 3 (dc motor/viberation motor)
+
+connect all together, more usage in remote control, use micro controllers:
+- arduino bluetooth (can connect without wifi)
+- ☆ wifi-based ESP 8266 board (better)
+
+workflow: start from making one for each or one type first<br>
+how to hide the electronics, material, color, scale: 
+![comment](pic/12-05.png)
+storybook:
+- make-up stories + real ones
+- more detailed
+- test + reaction record
+
+
 todo:
+- [ ] set the number of them and number of the network 
 - [ ] decide the detailed electronics and work on them!!!
 - [ ] combing and clean up the electronics
 - [ ] modelling the part to put the eletronics, the supports
+- [ ] start the storybook
+
+tobuy:
+budget 134/200
+- [x] wifiboard * a lot, 4 arrive before christmas
+- [x] viberation motor - peter
+- [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
+- [ ] leds (multi-color) or strips?
+- [ ] battery, battery sheild and battery?
