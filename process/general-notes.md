@@ -463,7 +463,7 @@ State Machine
 ## 2024-12-04
 > presentations/2024-12-04-presentation.md<br>
 
-**comments from**
+**comments from researchers and DES and LK**
 Introduce more function or sense / or staying creative and playful? 
 With a Collection of input and output you can tell a lot of different stories
 Fake-it demo 
@@ -509,7 +509,7 @@ storybook:
 - more detailed
 - test + reaction record
 
-
+## 2024-12-06
 todo:
 - [ ] set the number of them and number of the network 
 - [ ] decide the detailed electronics and work on them!!!
