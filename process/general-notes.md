@@ -509,18 +509,49 @@ storybook:
 - more detailed
 - test + reaction record
 
-## 2024-12-06
+## 2024-12-08
+![interaction chart](pic/interaction.png)
+### The highlighted part:
+Light:
+- single:
+    - tap it - fade in and fade out
+    - ? different side, different color
+    - cover something - always on (like a lamp)
+    - invert it - quick blink
+    - light it - will on for seconds
+    -? light it with different light - absorb light and show the same color (we are [light catchers](https://web.archive.org/web/20170717144505/http://www.michaelang.com/project/lightcatchers), [true color sensors](https://web.archive.org/web/20160816170307/http://www.mazet.de/en/products/jencolor/true-color-sensors))
+    - make sound - light with the frequency of sound input
+- network:
+    - tap a code on A - B blink the code
+    - convert A - B quickly blink with A
+
+Motion: 
+- single:
+    - tap it - low-intensity buzz, like a small acknowledgment
+    - press it - gradual vibration buildup to emphasize increasing pressure
+    - cover something - rotate
+    - make sound - vibrate with the frequency of sound input 
+- network:
+    - rotate A - B rotates in the opposite direction to A
+    - tap A - B, C, D... vibrate mimicing the vibration intensity of A’s tap
+
+
 todo:
-- [ ] set the number of them and number of the network 
-- [ ] decide the detailed electronics and work on them!!!
+- [x] set the number of them and number of the network 
+- [ ] decide the detailed electronics and work on them!!! - **check with PR**
 - [ ] combing and clean up the electronics
 - [ ] modelling the part to put the eletronics, the supports
-- [ ] start the storybook
+- [x] start and continue with the storybook > process/storybook.md
+- [ ] 12-18 TEST DAY!!!!
 
 tobuy:
 budget 134/200
-- [x] wifiboard * a lot, 4 arrive before christmas
-- [x] viberation motor - peter
+- [x] wifiboard * a lot - **4 arrive before christmas**
+- [x] viberation motor - **Peteralready buy**
 - [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
-- [ ] leds (multi-color) or strips?
-- [ ] battery, battery sheild and battery?
+- [ ] leds can have multi-color or strips? - **check storage room**
+- [ ] battery, battery sheild and battery? - **check with PR**
+
+questions:
+- [ ] same session (同一大类下的锥) totally the same or different?
+- [ ] better choice for batteries
