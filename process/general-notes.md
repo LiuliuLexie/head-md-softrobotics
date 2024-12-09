@@ -535,6 +535,11 @@ Motion:
     - rotate A - B rotates in the opposite direction to A
     - tap A - B, C, D... vibrate mimicing the vibration intensity of A’s tap
 
+## 2024-12-09
+After chating with PR:
+![light](pic/light.png)
+![motion](pic/motion.png)
+test with connecting two with wire to try the network
 
 todo:
 - [x] set the number of them and number of the network 
@@ -545,7 +550,7 @@ todo:
 - [ ] 12-18 TEST DAY!!!!
 
 tobuy:
-budget 134/200
+budget 89/200
 - [x] wifiboard * a lot - **4 arrive before christmas**
 - [x] viberation motor - **Peteralready buy**
 - [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
