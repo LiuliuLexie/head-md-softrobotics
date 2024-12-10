@@ -539,7 +539,18 @@ Motion:
 After chating with PR:
 ![light](pic/light.png)
 ![motion](pic/motion.png)
-test with connecting two with wire to try the network
+test with connecting two with wires to try the network<br>
+esp32 feather?
+
+## 2024-12-10
+work with the LIGHTCONE
+![lc1](pic/lc1interactions.png)
+![lc1](pic/lc1arduino1.png)
+![lc1](pic/lc1schematic1.png)
+question:
+- touch sensor? 
+- sound sensor can't find in fritzing
+- how to clean it to make simplier
 
 todo:
 - [x] set the number of them and number of the network 
@@ -547,7 +558,7 @@ todo:
 - [ ] combing and clean up the electronics
 - [ ] modelling the part to put the eletronics, the supports
 - [x] start and continue with the storybook > process/storybook.md
-- [ ] 12-18 TEST DAY!!!!
+- [ ] 12-18 TEST DAY!!!! 1-15 JURY DAY
 
 tobuy:
 budget 89/200
@@ -555,8 +566,8 @@ budget 89/200
 - [x] viberation motor - **Peteralready buy**
 - [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
 - [ ] leds can have multi-color or strips? - **check storage room**
-- [ ] battery, battery sheild and battery? - **check with PR**
+- [ ] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
 
 questions:
 - [ ] same session (同一大类下的锥) totally the same or different?
-- [ ] better choice for batteries
+- [x] better choice for batteries
