@@ -548,9 +548,14 @@ work with the LIGHTCONE
 ![lc1](pic/lc1arduino1.png)
 ![lc1](pic/lc1schematic1.png)
 question:
-- touch sensor? 
-- sound sensor can't find in fritzing
-- how to clean it to make simplier
+- [x] touch sensor? - [link](https://github.com/PaulStoffregen/CapacitiveSensor) get some 金属片
+- [x] sound sensor can't find in fritzing
+- [ ] touch sensor can't find in fritzing, and if add touch sensor, surface cut?
+- [ ] how to clean it to make simplier
+
+## 2024-12-11
+interaction -> sound: change to, when hear sound more than 75, blink 3 times
+>electronics/PROJECT/lightcone1_ww_otouch
 
 todo:
 - [x] set the number of them and number of the network 
