@@ -551,7 +551,7 @@ question:
 - [x] touch sensor? - [link](https://github.com/PaulStoffregen/CapacitiveSensor) get some 金属片
 - [x] sound sensor can't find in fritzing
 - [ ] touch sensor can't find in fritzing, and if add touch sensor, surface cut?
-- [ ] how to clean it to make simplier
+- [ ] how to clean it to make simplier, move to to solderable board
 
 ## 2024-12-11
 interaction -> sound: change to, when hear sound more than 75, blink 3 times
@@ -563,6 +563,7 @@ todo:
 - [ ] combing and clean up the electronics
 - [ ] modelling the part to put the eletronics, the supports
 - [x] start and continue with the storybook > process/storybook.md
+- [ ] first do without touch sensor???
 - [ ] 12-18 TEST DAY!!!! 1-15 JURY DAY
 
 tobuy:
@@ -570,9 +571,26 @@ budget 89/200
 - [x] wifiboard * a lot - **4 arrive before christmas**
 - [x] viberation motor - **Peteralready buy**
 - [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
-- [ ] leds can have multi-color or strips? - **check storage room**
+- [ ] leds can have multi-color or strips? - **check storage room** need more RGB LED
 - [ ] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
 
 questions:
 - [ ] same session (同一大类下的锥) totally the same or different?
 - [x] better choice for batteries
+
+## 2024-12-12
+test days
+- observe but dont guide 
+- write down the objectives: why these tests? what do i want to test? what hypotheses i want to confirm
+- who and why audience?
+- list tasks/interactions that need to be test - make a script
+- plan technical setup - film? audio record? picture?
+- welcome and intro -> pre-test interview -> moderation and observation -> post-test questionnaire
+- open-end question (what do you think) not opinion
+- take notes
+
+**comments from DES**<br>
+test faking, eg. [Tesla says](https://youtu.be/oGbrQPSWrNc?si=h_bpE4ORMBM6pKjS )<br>
+but mine should work.. and fake the network<br>
+whatever, need a "faking" plan<br>
+one board need to be the wifi station or my Mac(better)<br>
