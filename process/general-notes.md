@@ -590,6 +590,7 @@ test days
 - take notes
 
 **comments from DES**<br>
+print a 3d plastic cone and coat it with paper<br>
 test faking, eg. [Tesla says](https://youtu.be/oGbrQPSWrNc?si=h_bpE4ORMBM6pKjS )<br>
 but mine should work.. and fake the network<br>
 whatever, need a "faking" plan<br>
