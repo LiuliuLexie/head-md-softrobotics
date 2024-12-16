@@ -576,6 +576,12 @@ whatever, need a "faking" plan<br>
 one board need to be the wifi station or my Mac(better)<br>
 
 ## 2024-12-16
+Discussion with Pablo:
+- solder both arduino board (female pins) and proto shield (male pins)
+- structure: arduino board underneath the proto shield
+- code to pro mini [link](https://www.instructables.com/How-to-Program-Arduino-Pro-Mini-Using-Arduino-UNO/)
+
+
 todo:
 - [x] set the number of them and number of the network 
 - [ ] decide the detailed electronics and work on them!!! - **check with PR**
