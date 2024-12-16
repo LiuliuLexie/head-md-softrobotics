@@ -557,27 +557,6 @@ question:
 interaction -> sound: change to, when hear sound more than 75, blink 3 times
 >electronics/PROJECT/lightcone1_ww_otouch
 
-todo:
-- [x] set the number of them and number of the network 
-- [ ] decide the detailed electronics and work on them!!! - **check with PR**
-- [ ] combing and clean up the electronics
-- [ ] modelling the part to put the eletronics, the supports
-- [x] start and continue with the storybook > process/storybook.md
-- [ ] first do without touch sensor???
-- [ ] 12-18 TEST DAY!!!! 1-15 JURY DAY
-
-tobuy:
-budget 89/200
-- [x] wifiboard * a lot - **4 arrive before christmas**
-- [x] viberation motor - **Peteralready buy**
-- [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
-- [ ] leds can have multi-color or strips? - **check storage room** need more RGB LED
-- [ ] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
-
-questions:
-- [ ] same session (同一大类下的锥) totally the same or different?
-- [x] better choice for batteries
-
 ## 2024-12-12
 test days
 - observe but dont guide 
@@ -595,3 +574,33 @@ test faking, eg. [Tesla says](https://youtu.be/oGbrQPSWrNc?si=h_bpE4ORMBM6pKjS )
 but mine should work.. and fake the network<br>
 whatever, need a "faking" plan<br>
 one board need to be the wifi station or my Mac(better)<br>
+
+## 2024-12-16
+todo:
+- [x] set the number of them and number of the network 
+- [ ] decide the detailed electronics and work on them!!! - **check with PR**
+- [x] combing and clean up the electronics - Pablo, female and male on board and proto shield
+- [ ] modelling the part to put the eletronics, the supports
+- [x] start and continue with the storybook > process/storybook.md
+- [x] first do without touch sensor??? - patterns
+- [ ] 12-18 TEST DAY!!!! 1-15 JURY DAY
+
+tobuy:
+budget 89/200
+- [x] wifiboard * a lot - **4 arrive before christmas**
+- [x] viberation motor - **Peteralready buy**
+- [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
+- [ ] leds can have multi-color or strips? - **check storage room** need more RGB LED
+- [ ] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
+
+questions:
+- [ ] same session (同一大类下的锥) totally the same or **different**?
+- [x] better choice for batteries
+- [ ] same for different board??
+- [x] self made touch sensor - need conductive surface? - some cones, add patterns
+
+TODO:
+- [ ] upload code to promini 
+- [ ] solder
+- [ ] code adjustment with photocell
+- [ ] Pablo, with the battery
