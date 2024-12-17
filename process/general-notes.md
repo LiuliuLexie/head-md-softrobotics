@@ -606,7 +606,7 @@ questions:
 - [x] self made touch sensor - need conductive surface? - some cones, add patterns
 
 TODO:
-- [ ] upload code to promini 
-- [ ] solder
-- [ ] code adjustment with photocell
-- [ ] Pablo, with the battery
+- [ ] upload code to promini ? - take a long time uploading?
+- [ ] solder: female pins to arduino, male pins to proto
+- [ ] code adjustment with photocell - 250 - 300
+- [ ] battery 安装 
