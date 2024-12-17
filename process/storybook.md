@@ -41,3 +41,7 @@
 "When I was away on a work trip, I sent a signal from my Coneic before bed—a small series of taps. The next morning, I woke up to a notification on my phone that our home Coneics had lit up and vibrated. My family had sent their response back, a silent reassurance that I wasn’t so far away after all."
 
 "The emergent storm outside had us all in different corners of the apartment, but I tapped my Coneic in the dim room. A moment later, I saw the lights across the hallway respond—flickering and vibrating in sync. It wasn’t much, but in that moment, it felt like a reminder that we were all connected despite the howling winds."
+
+"I don't know what it is, it is as stubborn as a stone and never responds, bullsh*t product!"
+
+"I'm a test user of the Coneics, to observe more clearly, I turned on the flashlight towards one of them, and suddenly, all the lighted Coneics were on. I don't fully understand what they are doing, but it was an interesting scene."

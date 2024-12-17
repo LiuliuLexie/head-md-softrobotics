@@ -575,12 +575,11 @@ but mine should work.. and fake the network<br>
 whatever, need a "faking" plan<br>
 one board need to be the wifi station or my Mac(better)<br>
 
-## 2024-12-16
+## 2024-12-16&17
 Discussion with Pablo:
 - solder both arduino board (female pins) and proto shield (male pins)
 - structure: arduino board underneath the proto shield
 - code to pro mini [link](https://www.instructables.com/How-to-Program-Arduino-Pro-Mini-Using-Arduino-UNO/)
-
 
 todo:
 - [x] set the number of them and number of the network 
@@ -589,24 +588,55 @@ todo:
 - [ ] modelling the part to put the eletronics, the supports
 - [x] start and continue with the storybook > process/storybook.md
 - [x] first do without touch sensor??? - patterns
-- [ ] 12-18 TEST DAY!!!! 1-15 JURY DAY
+- [x] upload code to promini ? - take a long time uploading? - 3.3v -> 5v
+- [x] solder the first test day cone and electronics
+- [ ] code adjustment with photocell - 250 - 300 - under sunshine ~1000, indoor~500, night indoor~300
+- [ ] battery 安装 
 
 tobuy:
 budget 89/200
 - [x] wifiboard * a lot - **4 arrive before christmas**
 - [x] viberation motor - **Peter already buy**
 - [x] speakers (check whether they have in the room), have buzzer in the kit, test first
-- [ ] leds can have multi-color or strips? - **check storage room** need more RGB LED
+- [ ] leds can have multi-color or strips? - **check storage room** need more RGB LED - have 2 now, need more
 - [x] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
 
 questions:
-- [ ] same session (同一大类下的锥) totally the same or **different**?
+- [x] same session (同一大类下的锥) totally the same or **different**?
 - [x] better choice for batteries
-- [ ] same for different board??
+- [x] same for different board?? - same
 - [x] self made touch sensor - need conductive surface? - some cones, add patterns
+- [ ] only one analog pin on each ESP8266 -?
 
-TODO:
-- [ ] upload code to promini ? - take a long time uploading?
-- [ ] solder: female pins to arduino, male pins to proto
-- [ ] code adjustment with photocell - 250 - 300
-- [ ] battery 安装 
+![electronics](pic/1217electronic.png)
+*the Testday Coneic: LED, tilt sensor, photocell, wireless?*
+
+still TODO and TOBUY repack for test day:
+- [ ] more complicated and random code (tilt and photocell only)
+- [ ] battery
+- [ ] storybook print and cut
+
+## 2024-12-18 TEST DAY
+test days in mind
+- observe more
+- why, what, when, who, where, how
+- film? audio record? picture?
+- welcome and intro -> pre-test interview -> moderation and observation -> post-test questionnaire
+- open-end question (what do you think) not opinion
+- take notes
+
+### Feedbacks
+- 
+
+todo:
+- [ ] decide the detailed electronics and work on them!!!
+- [ ] redesign the light cones and motion cones, consider the one analog pin problem
+- [ ] modelling the part to put the eletronics, the supports
+- [ ] chat with profs about the idea of have a patterned one with touch
+- [ ] network
+- [ ] continue working!!
+
+tobuy:
+- [x] RGB LEDs
+- [x] ESP8266 4 more
+- [ ] accelerometer?
