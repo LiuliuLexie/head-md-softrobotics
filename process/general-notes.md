@@ -594,10 +594,10 @@ todo:
 tobuy:
 budget 89/200
 - [x] wifiboard * a lot - **4 arrive before christmas**
-- [x] viberation motor - **Peteralready buy**
-- [ ] speakers (check whether they have in the room), have buzzer in the kit, test first
+- [x] viberation motor - **Peter already buy**
+- [x] speakers (check whether they have in the room), have buzzer in the kit, test first
 - [ ] leds can have multi-color or strips? - **check storage room** need more RGB LED
-- [ ] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
+- [x] battery, battery sheild and battery? - **bought [WeMos D1 Mini LIPO Battery Shield V1.2.0](https://www.bastelgarage.ch/wemos-d1-mini-lipo-battery-shield-v1-2-0?utm_source=chatgpt.com) and LiPo Battery 1500mAh JST 2.0 / Lithium Ion Polymer**
 
 questions:
 - [ ] same session (同一大类下的锥) totally the same or **different**?

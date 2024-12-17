@@ -65,14 +65,14 @@ void loop() {
   }
 }
 
-// Helper Function: Set RGB LED color
+// Set RGB LED color
 void setLED(int red, int green, int blue) {
   analogWrite(redPin, red);
   analogWrite(greenPin, green);
   analogWrite(bluePin, blue);
 }
 
-// Helper Function: Blink LED
+// Blink LED
 void blinkLED(int red, int green, int blue, int times, int delayTime) {
   for (int i = 0; i < times; i++) {
     setLED(red, green, blue);
