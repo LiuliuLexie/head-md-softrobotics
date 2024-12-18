@@ -612,9 +612,9 @@ questions:
 *the Testday Coneic: LED, tilt sensor, photocell, wireless?*
 
 still TODO and TOBUY repack for test day:
-- [ ] more complicated and random code (tilt and photocell only)
+- [x] more complicated and random code (tilt and photocell only)
 - [ ] battery
-- [ ] storybook print and cut
+- [x] storybook print and cut
 
 ## 2024-12-18 TEST DAY
 test days in mind
