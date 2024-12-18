@@ -626,7 +626,27 @@ test days in mind
 - take notes
 
 ### Feedbacks
-- 
+storybook part:
+- tags confusing(feel like guidelines), make them into a book/or a website showing difgitally
+- leave blank pages, place a pencil or digital apple pencil to encourge engagement
+- consider adding scene/settings/backgrounds to different books, eg:
+    - stroybook1 (story from a family), 
+    - storybook2 (story of the coneics in a shared appartent)
+    - storybook3 (story of remote connection)
+    - ...
+- stimulate the review pages of products, with username, product bought, star rating ☆☆☆☆, comment "..."
+- consider to use a opening performance(小剧场表演) to help the audiences understand
+
+Coneic:
+- ? add filters for them
+- each should have one main function/feedback, so that people can see the different personalities
+- reference: [sphero](https://sphero.com/): codable robot
+- question: what if someone discovers an interaction and feedback, but he doesn't like it??
+    - a pet or a tool? people wont be mad at pet, but mad at tools if not useful
+    - add a reset button?
+    - prepare backup plan code for the coneics
+- different types
+
 
 todo:
 - [ ] decide the detailed electronics and work on them!!!

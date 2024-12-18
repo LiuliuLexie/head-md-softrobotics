@@ -36,7 +36,7 @@ void loop() {
   unsigned long currentTime = millis();
 
   // Default state: LED on, white light with random blinking
-  if (tiltState == LOW && lightValue <= 450) {
+  if (tiltState == LOW && lightValue <= 750) {
     setLED(255, 255, 255);
     Serial.println("State 1");
     Serial.println(lightValue);
@@ -63,7 +63,7 @@ void loop() {
   }
 
   // Interaction: Light the sensor
-  if (lightValue > 450 && (currentTime - lastLightTime > lightCooldown)) {
+  if (lightValue > 750 && (currentTime - lastLightTime > lightCooldown)) {
     Serial.println(lightValue);
     int feedback = random(0, 2); 
     if (feedback == 0) {

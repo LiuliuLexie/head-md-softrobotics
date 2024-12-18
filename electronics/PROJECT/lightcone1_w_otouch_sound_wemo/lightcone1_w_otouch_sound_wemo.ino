@@ -35,7 +35,7 @@ void loop() {
   // int soundValue = analogRead(soundPin);
 
   // Default state: LED on, white light
-  if (tiltState == LOW && lightValue <= 450) {
+  if (tiltState == LOW && lightValue <= 780) {
     setLED(255, 255, 255);  // White light
     Serial.println("State 1");
     Serial.println(lightValue);
@@ -48,7 +48,7 @@ void loop() {
   }
 
   // Interaction: Light the sensor, If light it (Photoresistor), when sense light value > 1000, the LED turns off for 5 seconds
-  if (lightValue > 450) {
+  if (lightValue > 780) {
     setLED(0, 0, 0);
     delay(5000);
     setLED(255, 255, 255);
