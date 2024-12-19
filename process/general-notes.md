@@ -647,12 +647,20 @@ Coneic:
     - prepare backup plan code for the coneics
 - different types
 
+## 2024-12-19 
+[Video sessions, Pulse Incubator](https://docs.google.com/document/d/1kgHAT8Bs2cz0OQq68X4JgVZPWP3EDckmtdBX1D-MkAc/edit?tab=t.0#heading=h.1lwmo4mdcrlc)
+- Tuesday, Jan 7,13h15 Liuliu : Coneic 
+- prepare before 7
+    - Shoot a quick & dirty 30s video as a first attempt to communicate your project
+    - a storyboard including list of all the people acting in your clip and list of all the objects/accessories/costumes for your clip
+![videostructure](pic/videosession.png)
 
 todo:
 - [ ] decide the detailed electronics and work on them!!!
 - [ ] redesign the light cones and motion cones, consider the one analog pin problem
 - [ ] modelling the part to put the eletronics, the supports
 - [ ] chat with profs about the idea of have a patterned one with touch
+- [ ] redesign the storybook part
 - [ ] network
 - [ ] continue working!!
 
