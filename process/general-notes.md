@@ -656,10 +656,10 @@ Coneic:
 ![videostructure](pic/videosession.png)
 
 todo:
+- [ ] redesign the input-output of light cones and motion cones, consider the one analog pin problem
 - [ ] decide the detailed electronics and work on them!!!
-- [ ] redesign the light cones and motion cones, consider the one analog pin problem
 - [ ] modelling the part to put the eletronics, the supports
-- [ ] chat with profs about the idea of have a patterned one with touch
+- [ ] chat with DES about the idea of have a patterned one with touch and the dislike problem
 - [ ] redesign the storybook part
 - [ ] network
 - [ ] continue working!!
