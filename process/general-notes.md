@@ -650,7 +650,7 @@ Coneic:
 ## 2024-12-19 
 [Video sessions, Pulse Incubator](https://docs.google.com/document/d/1kgHAT8Bs2cz0OQq68X4JgVZPWP3EDckmtdBX1D-MkAc/edit?tab=t.0#heading=h.1lwmo4mdcrlc)
 - Tuesday, Jan 7,13h15 Liuliu : Coneic 
-- prepare before 7
+- prepare before 7, video upload to [link](https://drive.switch.ch/index.php/s/Wtom21f32rCMNpa?path=%2F2.Work%20in%20Progress%2Fvideo-prototypes-2025-01-06)
     - Shoot a quick & dirty 30s video as a first attempt to communicate your project
     - a storyboard including list of all the people acting in your clip and list of all the objects/accessories/costumes for your clip
 ![videostructure](pic/videosession.png)
