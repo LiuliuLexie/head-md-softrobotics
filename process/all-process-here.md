@@ -672,6 +672,7 @@ todo:
 - [ ] chat with DES about the idea of have a patterned one with touch and the dislike problem
 - [ ] redesign the storybook part
 - [ ] network
+- [ ] video and storybook
 - [ ] continue working!!
 
 tobuy:
