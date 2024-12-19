@@ -611,6 +611,10 @@ questions:
 ![electronics](pic/1217electronic.png)
 *the Testday Coneic: LED, tilt sensor, photocell, wireless?*
 
+storybook:
+![storybook](storybook/testday1.png)
+![storybook](storybook/testday2.png)
+
 still TODO and TOBUY repack for test day:
 - [x] more complicated and random code (tilt and photocell only)
 - [ ] battery
@@ -646,6 +650,12 @@ Coneic:
     - add a reset button?
     - prepare backup plan code for the coneics
 - different types
+
+![testdaydoc](pic/testday/17991734622837_.pic.jpg)
+![testdaydoc](pic/testday/18001734622837_.pic.jpg)
+![testdaydoc](pic/testday/18011734622837_.pic.jpg)
+![testdaydoc](pic/testday/18021734622837_.pic.jpg)
+![testdaydoc](pic/testday/18031734622837_.pic.jpg)
 
 ## 2024-12-19 
 [Video sessions, Pulse Incubator](https://docs.google.com/document/d/1kgHAT8Bs2cz0OQq68X4JgVZPWP3EDckmtdBX1D-MkAc/edit?tab=t.0#heading=h.1lwmo4mdcrlc)
